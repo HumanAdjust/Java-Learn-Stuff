@@ -1,0 +1,17 @@
+INDEX VERSION 1.131
+E:\家傍\gsm\springworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3725624098.index
+\py\src
+E:\家傍\gsm\springworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2113014147.index
+\webmvc\src
+E:\家傍\gsm\springworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\413577569.index
+\mvc\src
+E:\家傍\gsm\springworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\892364847.index
+\WebBasic\src
+E:\家傍\gsm\springworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3297797385.index
+\WEB3_1\src
+E:\家傍\gsm\springworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\585555427.index
+\WEBERP\src
+E:\家傍\gsm\springworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\824009259.index
+\webmvc\src
+E:\家傍\gsm\springworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2372918717.index
+\webmvc\src

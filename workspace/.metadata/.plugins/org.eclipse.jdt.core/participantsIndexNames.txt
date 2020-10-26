@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\jshga\Desktop\家傍\gsm\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3297797385.index
+\WEB3_1\src
+C:\Users\jshga\Desktop\家傍\gsm\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3725624098.index
+\py\src
+C:\Users\jshga\Desktop\家傍\gsm\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\892364847.index
+\WebBasic\src
+C:\Users\jshga\Desktop\家傍\gsm\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\585555427.index
+\WEBERP\src

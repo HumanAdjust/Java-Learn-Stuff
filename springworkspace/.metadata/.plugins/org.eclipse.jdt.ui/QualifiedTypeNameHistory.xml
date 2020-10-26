@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="kr.gsm.MyUtil"/>
+<fullyQualifiedTypeName name="kr.mem.controller.MemberInsertController"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="kr.mem.model.MemberDAO"/>
+<fullyQualifiedTypeName name="kr.mem.model.MemberVO"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="kr.mem.controller.MemberListController"/>
+</qualifiedTypeNameHistroy>
